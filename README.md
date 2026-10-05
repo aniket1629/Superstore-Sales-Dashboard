@@ -66,7 +66,7 @@ The dashboard analyzes:
 
 ## Dashboard
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](Excel_dashboard.png)
 
 ## Project Structure
 
